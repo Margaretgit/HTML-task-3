@@ -52,7 +52,7 @@ marquee{
 
 .picture{
     width:350px;
-    height: 250px;
+    height: 200px;
     padding:10px;
     background-color: rgb(87, 9, 76);
     border-radius: 5px;
@@ -78,7 +78,7 @@ marquee{
 }
 
 .Great{
-    margin-left: 1000px;
+    margin-left: 970px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(4, 4, 20);
     font-weight: bold;
